@@ -1,0 +1,8 @@
+# Binaries folder
+/bin/*
+
+# Eclipse project-related files
+/.classpath
+/.project
+/.settings/*
+/bin/
